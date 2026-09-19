@@ -1,0 +1,11 @@
+text,label
+"Congratulations! You won a prize. Click the link to claim your reward.",Phishing
+"Your account has been suspended. Verify your password immediately.",Phishing
+"Urgent! Your bank account needs verification. Click here now.",Phishing
+"You have won a free gift card. Claim your reward today.",Phishing
+"Click this link to receive your money immediately.",Phishing
+"Your meeting is scheduled for tomorrow at 10 AM.",Safe
+"Please find the project report attached.",Safe
+"Can we meet tomorrow to discuss the assignment?",Safe
+"The class will start at 9 AM tomorrow.",Safe
+"Please submit your assignment before Friday.",Safe
